@@ -1,4 +1,6 @@
 llama-index-embeddings-azure-openai
 llama-index-llms-azure-openai
 llama-index
+langchain
 pyvis
+sentence_transformers
